@@ -2,6 +2,9 @@
 
 Student by day, tech enthusiast by heart. I love to tinker around with computers and just about anything. With 8A*'s in IGCSE, A*'AAA in A-Levels, an A*' in First Language English (0500 IGCSE) and 1460 in SATs under my belt, I am academically inclined and motivated to try my hand at anything and everything.
 An internship at National Incubation Centre, Karachi, enabled me to learn about the startup culture and I also made a fully functional website for MakeSpace Online Hackathon, a 48 hour hackathon organised by Population Services International.
+
+I am currently pursing my Bachelors in Computer Engineering at Bilkent Üniversitesi Ankara, Turkey. (Freshman | Class of 2025)
+
 Looking forward to exploring unchartered territory and experience amazing adventures!
 
 Student | Blogger | Content Writer | Web Dev | Tech Enthusiast
