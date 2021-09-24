@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Shayan.
 
-<!--
-**SCORPIA2004/SCORPIA2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student by day, tech enthusiast by heart. I love to tinker around with computers and just about anything. With 8A*'s in IGCSE, A*'AAA in A-Levels, an A*' in First Language English (0500 IGCSE) and 1460 in SATs under my belt, I am academically inclined and motivated to try my hand at anything and everything.
+An internship at National Incubation Centre, Karachi, enabled me to learn about the startup culture and I also made a fully functional website for MakeSpace Online Hackathon, a 48 hour hackathon organised by Population Services International.
+Looking forward to exploring unchartered territory and experience amazing adventures!
 
-Here are some ideas to get you started:
+Student | Blogger | Content Writer | Web Dev | Tech Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Reach out to me on:
+- Facebook: https://www.facebook.com/muhammed.shayan.2004/
+- Instagram: https://www.instagram.com/scorpia2004/
+- Email: mshayanalwaha@gmail.com
+- LinkedIn: https://www.linkedin.com/in/muhammed-shayan-usman-4559a213b/
