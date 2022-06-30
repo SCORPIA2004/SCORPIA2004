@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Java | C++ | SQL | Python**
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@mshayanalwaha)
+- 📝 I regularly write articles on **[Medium](https://medium.com/@mshayanalwaha)**
 
-- 📫 How to reach me **mshayanalwaha@gmail.com**
+- 📫 Reach me at **[Gmail](mshayanalwaha@gmail.com)**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/muhammed-shayan-usman-4559a213b/](https://www.linkedin.com/in/muhammed-shayan-usman-4559a213b/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/muhammed-shayan-usman-4559a213b/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
