@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on **[Medium](https://medium.com/@mshayanalwaha)**
 
-- 📫 Reach me at **[Gmail](mshayanalwaha@gmail.com)**
+- 📫 Reach me at **[Gmail](mailto:mshayanalwaha@gmail.com?subject=Hey%20there!)**
 
 - 📄 Know about my experiences **[LinkedIn](https://www.linkedin.com/in/muhammed-shayan-usman-4559a213b/)**
 
