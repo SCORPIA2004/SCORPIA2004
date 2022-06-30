@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java | C++ | SQL | Python**
 
-- 📝 I regularly write articles on [https://medium.com/@mshayanalwaha](https://medium.com/@mshayanalwaha)
+- 📝 I regularly write articles on [Medium](https://medium.com/@mshayanalwaha)
 
 - 📫 How to reach me **mshayanalwaha@gmail.com**
 
