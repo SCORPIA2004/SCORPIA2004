@@ -14,8 +14,8 @@
 <h3 align="left">Projects:</h3>
 <ul>
   <li><a href="https://shayan2004.itch.io/martian-racer" target="blank">Martian Racer</a> [made with Unity Game Engine]</li>
-  <li><a href="https://finance-s4.herokuapp.com/" target="blank">Finance S4</a> (made with JavaScript+Jinja during CS50x)</li>
-  <li><a href="https://github.com/SCORPIA2004/CS-102-Project-ATLA-g1I" target="blank">Card game</a> (made with Java+Vaadin Framework)</li>
+  <li><a href="https://finance-s4.herokuapp.com/" target="blank">Finance S4</a> [made with JavaScript+Jinja during CS50x]</li>
+  <li><a href="https://github.com/SCORPIA2004/CS-102-Project-ATLA-g1I" target="blank">Card game</a> [made with Java+Vaadin Framework]</li>
 
 </ul>
 </p>
