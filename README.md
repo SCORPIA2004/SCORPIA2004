@@ -11,6 +11,12 @@
 
 - 📄 Know about my experiences **[LinkedIn](https://www.linkedin.com/in/muhammed-shayan-usman-4559a213b/)**
 
+<h3 align="left">Projects:</h3>
+<ul>
+  <li><a href="https://shayan2004.itch.io/martian-racer" target="blank">Martian Racer (made with Unity Game Engine)</a></li>
+</ul>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/muhammed-shayan-usman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammed-shayan-usman-4559a213b/" height="30" width="40" /></a>
