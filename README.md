@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Shayan Usman</h1>
-<h3 align="center">BSc Computer Engineering Student</h3>
+<h3 align="center">BSc. Computer Engineering Student @ Bilkent Üniversitesi</h3>
 
 - 🔭 I’m currently working on **CS50x 2022**
 
