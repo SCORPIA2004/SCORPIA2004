@@ -13,7 +13,10 @@
 
 <h3 align="left">Projects:</h3>
 <ul>
-  <li><a href="https://shayan2004.itch.io/martian-racer" target="blank">Martian Racer (made with Unity Game Engine)</a></li>
+  <li><a href="https://shayan2004.itch.io/martian-racer" target="blank">Martian Racer [made with Unity Game Engine]</a></li>
+  <li><a href="https://finance-s4.herokuapp.com/" target="blank">Finance S4 (made with JavaScript+Jinja)</a></li>
+  <li><a href="https://github.com/SCORPIA2004/CS-102-Project-ATLA-g1I" target="blank">Card game (made with Java+Vaadin Framework)</a></li>
+
 </ul>
 </p>
 
