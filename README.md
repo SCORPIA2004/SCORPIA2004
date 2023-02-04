@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Shayan Usman</h1>
 <h3 align="center">BSc. Computer Engineering Student @ Bilkent Üniversitesi</h3>
-<h3 align="center"><a href="https://github.com/SCORPIA2004/SCORPIA2004.github.io/blob/6ac981087267fe05264dace0e91402448545d903/Muhammad%20Shayan%20Usman%20-%20Resume.pdf" target="blank">Résumé</a></h3>
+<h3 align="center"><a href="Muhammad Shayan-Resume.pdf" target="blank">Résumé</a></h3>
 
 - 🔭 I’m currently working on **CS50x 2022**
 
