@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Shayan Usman</h1>
 <h3 align="center">BSc. Computer Engineering Student @ Bilkent Üniversitesi</h3>
-<h3 align="center"><a href="Muhammad Shayan Resume.pdf" target="blank">Résumé</a></h3>
+<h3 align="center"><a href="https://docs.google.com/document/d/1p9cThLEWSdVM1pfoJ0fYriDcyYJp91SF_DuYkOeY4Us/edit?usp=sharing" target="blank">Résumé</a></h3>
 
 - 🔭 I’m currently working on **CS50x 2022**
 
