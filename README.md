@@ -35,6 +35,6 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="html.svg" alt="html5" width="60" height="60"/> </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="java.svg" alt="java" width="60" height="60"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="python.svg" alt="python" width="60" height="60"/> </a> 
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="unity.svg" alt="unity" width="60" height="60"/> </a> </p>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="unity.png" alt="unity" width="60" height="60"/> </a> </p>
 
 <!--- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=scorpia2004&show_icons=true&theme=dark&title_color=ff9500&locale=en" alt="scorpia2004" /></p> --->
