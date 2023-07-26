@@ -11,6 +11,7 @@
 <h2 align="left">Projects:</h2>
 <p><i>Use CTRL + click to open links in new tab. </i></p>
 <ul>
+  <li><a href="https://github.com/SCORPIA2004/AvASys-Ground-Control-System" target="blank">AvASys Ground Control System</a> [made with Pyside6 and using AdaFruit Ultimate GPS]</li>
   <li><a href="https://github.com/SCORPIA2004/Urokodaki" target="blank">Restaurant Menu</a> [made with React.js and Javascript]</li>
   <li><a href="https://scorpia2004.itch.io/martian-racer" target="blank">Martian Racer</a> [made with Unity Game Engine]</li>
   <li><a href="https://finance-s4.herokuapp.com/" target="blank">Finance S4</a> [made with JavaScript+Jinja during CS50x]</li>
