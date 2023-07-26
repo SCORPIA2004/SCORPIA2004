@@ -2,11 +2,13 @@
 <h3 align="center">BSc. Computer Engineering Student @ Bilkent Üniversitesi</h3>
 <h3 align="center"><a href="https://docs.google.com/document/d/1p9cThLEWSdVM1pfoJ0fYriDcyYJp91SF_DuYkOeY4Us/edit?usp=sharing" target="_blank">Resume</a></h3>
 
+<!-- 
 - 📫 Reach me at **[Gmail](mailto:mshayanalwaha@gmail.com?subject=Hello%20there!) | [Outlook](mailto:mshayanalwaha@outlook.com?subject=Hello%20there!)**
 
 - 👨‍💻 Know about my experience on **[LinkedIn](https://www.linkedin.com/in/muhammed-shayan-usman-4559a213b/)**
 
 - 💾 Download my **[Resume](https://docs.google.com/document/d/1p9cThLEWSdVM1pfoJ0fYriDcyYJp91SF_DuYkOeY4Us/edit?usp=sharing)**
+-->
 
 <h2 align="left">Projects:</h2>
 <p><i>Use CTRL + click to open links in new tab. </i></p>
