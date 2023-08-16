@@ -40,7 +40,7 @@
     <tr>
       <td><a href="https://scorpia2004.itch.io/martian-racer" target="_blank">Martian Racer</a></td>
       <td>Unity game engine-based game, Martian Racer</td>
-      <td>N/A</td>
+      <td>C# | Unity</td>
     </tr>
     <tr>
       <td><a href="https://finance-s4.herokuapp.com/" target="_blank">Finance S4</a></td>
@@ -50,7 +50,7 @@
     <tr>
       <td><a href="https://youtu.be/ioeeD3LapDI" target="_blank">Card game</a></td>
       <td>Card game developed with Java and Vaadin Framework</td>
-      <td>Java</td>
+      <td>Java | Vaadin</td>
     </tr>
     <tr>
       <td><a href="https://scorpia2004.github.io/Brainnest-Frontend/Assignment%202%20-%20CSS/index.html" target="_blank">An interactive website</a></td>
