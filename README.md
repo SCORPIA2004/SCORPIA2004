@@ -10,9 +10,10 @@
 - 💾 Download my **[Resume](https://docs.google.com/document/d/1p9cThLEWSdVM1pfoJ0fYriDcyYJp91SF_DuYkOeY4Us/edit?usp=sharing)**
 -->
 
+
 <h2 align="left">Projects:</h2>
 <p><i>Use CTRL + click to open links in new tab. </i></p>
-<ul>
+<!-- <ul>
   <li><a href="https://github.com/SCORPIA2004/AvASys-Ground-Control-System" target="blank">AvASys Ground Control System</a> [made with Pyside6 and using AdaFruit Ultimate GPS]</li>
   <li><a href="https://github.com/SCORPIA2004/STARS-Autologger" target="blank">STARS Autologger</a> [made with Python and Selenium]</li>
   <li><a href="https://github.com/SCORPIA2004/Urokodaki" target="blank">Restaurant Menu</a> [made with React.js and Javascript]</li>
@@ -21,8 +22,54 @@
   <li><a href="https://youtu.be/ioeeD3LapDI" target="blank">Card game</a> [made with Java+Vaadin Framework]</li>
   <li><a href="https://scorpia2004.github.io/Brainnest-Frontend/Assignment%202%20-%20CSS/index.html" target="blank">An interactive website</a> [made with HTML, CSS and Javascript]</li>
 
-</ul>
+</ul> -->
+
+<table>
+  <thead>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Languages/Tools</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/SCORPIA2004/AvASys-Ground-Control-System" target="blank">AvASys v1.2.2</a></td>
+      <td>Flight controller made with Pyside6 and using AdaFruit Ultimate GPS + Arduino</td>
+      <td>Python | Pyside6 | QtDesigner</td>
+    </tr>  
+    <tr>
+      <td><a href="https://github.com/SCORPIA2004/STARS-Autologger" target="_blank">STARS Autologger</a></td>
+      <td>Automated logger using Python and Selenium</td>
+      <td>Python | Selenium</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/SCORPIA2004/Urokodaki" target="_blank">Restaurant Menu</a></td>
+      <td>Interactive restaurant menu made with React.js and JavaScript</td>
+      <td>React | JavaScript</td>
+    </tr>
+    <tr>
+      <td><a href="https://scorpia2004.itch.io/martian-racer" target="_blank">Martian Racer</a></td>
+      <td>Unity game engine-based game, Martian Racer</td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td><a href="https://finance-s4.herokuapp.com/" target="_blank">Finance S4</a></td>
+      <td>Finance app created with JavaScript + Jinja during CS50x</td>
+      <td>JavaScript | Jinja</td>
+    </tr>
+    <tr>
+      <td><a href="https://youtu.be/ioeeD3LapDI" target="_blank">Card game</a></td>
+      <td>Card game developed with Java and Vaadin Framework</td>
+      <td>Java</td>
+    </tr>
+    <tr>
+      <td><a href="https://scorpia2004.github.io/Brainnest-Frontend/Assignment%202%20-%20CSS/index.html" target="_blank">An interactive website</a></td>
+      <td>Interactive website created with HTML, CSS, and JavaScript</td>
+      <td>HTML | CSS | JavaScript</td>
+    </tr>
+  </tbody>
+</table>
 </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
