@@ -53,7 +53,7 @@
       <td>Java | Vaadin</td>
     </tr>
     <tr>
-      <td><a href="https://scorpia2004.github.io/Brainnest-Frontend/Assignment%202%20-%20CSS/index.html" target="_blank">An interactive website</a></td>
+      <td><a href="https://scorpia2004.github.io/Brainnest-Frontend/Assignment%202%20-%20CSS/index.html" target="_blank">Interactive website</a></td>
       <td>Interactive website created with HTML, CSS, and JavaScript</td>
       <td>HTML | CSS | JavaScript</td>
     </tr>
