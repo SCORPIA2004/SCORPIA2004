@@ -66,7 +66,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/muhammed-shayan-usman/" target="blank"><img align="center" src="734393_in_linked_media_online_social_icon.png" alt="LinkedIn" height="60" width="60" /></a>
 <a href="mailto:mshayanalwaha@gmail.com" target="blank"><img align="center" src="4550857_email_gmail_mail_sending_yahoo_icon.png" alt="Gmail" height="60" width="60" /></a>
-<a href="https://www.discordapp.com/users/577949604394303518" target="blank"><img align="center" src="4691356_discord_icon.svg" alt="Discord" height="60" width="60" /></a>
+<a href="https://www.discordapp.com/users/577949604394303518" target="blank"><img align="center" src="3069758_circle_discord_gaming_messenger_round icon_icon.svg" alt="Discord" height="60" width="60" /></a>
 
 </p>
 
