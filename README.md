@@ -57,7 +57,11 @@
       <td>Interactive website created with HTML, CSS, and JavaScript</td>
       <td>HTML | CSS | JavaScript</td>
     </tr>
-  </tbody>
+    <tr>
+      <td><a href="https://scorpia2004.github.io/Brainnest-Frontend/Assignment%204%20-%20JS_2/RPS/index.html" target="_blank">Rock Paper Scissors</a></td>
+      <td>Simple game created with HTML, CSS, and JavaScript</td>
+      <td>HTML | CSS | JavaScript</td>
+    </tr>  </tbody>
 </table>
 </p>
 
