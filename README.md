@@ -10,7 +10,8 @@
 - 💾 Download my **[Resume](https://docs.google.com/document/d/1p9cThLEWSdVM1pfoJ0fYriDcyYJp91SF_DuYkOeY4Us/edit?usp=sharing)**
 -->
 <p align="center">
-<img src="banner.gif" width=75%>
+<img src="banner.png" width=100%>
+<!-- <img src="banner.gif" width=75%> -->
 </p>
 
 <h2 align="left">Projects:</h2>
