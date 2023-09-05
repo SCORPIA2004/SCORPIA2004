@@ -34,6 +34,11 @@
       <td>Python | Selenium</td>
     </tr>
     <tr>
+      <td><a href="https://github.com/SCORPIA2004/IMDb-data-multi-tool" target="_blank">IMDb data multi tool</a></td>
+      <td>Automated data scrapper using Python Selenium webdriver</td>
+      <td>Python | Selenium | Beautiful Soup</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/SCORPIA2004/Urokodaki" target="_blank">Restaurant Menu</a></td>
       <td>Interactive restaurant menu made with React.js and JavaScript</td>
       <td>React | JavaScript</td>
