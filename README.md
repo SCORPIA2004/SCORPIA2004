@@ -24,6 +24,11 @@
   </thead>
   <tbody>
     <tr>
+      <td>Bilkent Campus Connect</td>
+      <td>A social webapp that connects students together</td>
+      <td>MongoDB | ExpressJS | React | NodeJS</td>
+    </tr>  
+    <tr>
       <td><a href="https://github.com/SCORPIA2004/AvASys-Ground-Control-System" target="blank">AvASys v1.2.2</a></td>
       <td>Flight controller - uses AdaFruit Ultimate GPS + Arduino</td>
       <td>Python | Pyside6 | QtDesigner</td>
