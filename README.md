@@ -24,8 +24,8 @@
   </thead>
   <tbody>
     <tr>
-      <td>Bilkent Campus Connect</td>
-      <td>A social webapp that connects students together</td>
+      <td>Campus Connect</td>
+      <td>A social webapp that connects students together <strong>WIP</strong> </td>
       <td>MongoDB | ExpressJS | React | NodeJS</td>
     </tr>  
     <tr>
