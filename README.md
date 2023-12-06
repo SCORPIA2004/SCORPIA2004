@@ -25,7 +25,7 @@
   <tbody>
     <tr>
       <td>Campus Connect</td>
-      <td>A social webapp that connects students together <strong>WIP</strong> </td>
+      <td>A social webapp that connects students together <strong>WIP</strong> [ <a href="https://www.figma.com/file/R8BZfCFKQJQwLtaQgkhAHL/Undefined?type=design&node-id=107%3A2&mode=design&t=aNN8YGzyDwz2Z1lV-1" target="blank">Figma Design</a> ]</td>
       <td>MongoDB | ExpressJS | React | NodeJS</td>
     </tr>  
     <tr>
