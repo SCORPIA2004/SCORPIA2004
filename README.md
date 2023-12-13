@@ -14,7 +14,7 @@
 <!-- <img src="banner.gif" width=75%> -->
 </p>
 
-<h2 align="left">Projects:</h2>
+<h2 align="left"><picture><img src = "about_me.gif" width = 50px></picture>Projects:</h2>
 <p><i>Use CTRL + click to open links in new tab. </i></p>
 <table>
   <thead>
@@ -77,7 +77,7 @@
 </p>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"></picture>Connect with me: <picture><img src = "handshake.gif" width = 100px></h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/muhammed-shayan-usman/" target="blank"><img align="center" src="734393_in_linked_media_online_social_icon.png" alt="LinkedIn" height="60" width="60" /></a>
 <a href="mailto:mshayanalwaha@gmail.com" target="blank"><img align="center" src="4550857_email_gmail_mail_sending_yahoo_icon.png" alt="Gmail" height="60" width="60" /></a>
