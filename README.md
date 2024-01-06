@@ -1,14 +1,34 @@
 <h1 align="center">Hi 👋, I'm Shayan</h1>
 
 <p align="center">
-<img src="banner.png" width=100%>
+<img src="Images/banner.png" width=100%>
 </p>
 
 <h3 align="center">BSc. Computer Engineering Student @ Bilkent Üniversitesi | <a href="https://docs.google.com/document/d/1p9cThLEWSdVM1pfoJ0fYriDcyYJp91SF_DuYkOeY4Us/edit?usp=sharing" target="_blank">Resume</a></h3>
 
 
+<table>
+  <thead>
+      <th>
+        <h2 align="center" valign="top"><picture><img src = "Images/projects.gif" width = 50px></picture>    Projects:</h2>
+      </th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <p><i>Use CTRL + click to open links in new tab. </i></p>
+      </td>
+    </tr>
+          <td align="center" valign="top" width="20%"><a href="https://github.com/SCORPIA2004/CampusConnect"><img src="Images/banner.png" width="100px;" alt=""/><br /><b>Campus Connect</b></a><br/>A social webapp that connects students together <a href="https://www.figma.com/file/R8BZfCFKQJQwLtaQgkhAHL/Undefined?type=design&node-id=107%3A2&mode=design&t=aNN8YGzyDwz2Z1lV-1" target="blank">Figma</a> | <a href="https://youtu.be/J5G0Qc4Uwq0">Demo</a></td>
 
-<h2 align="left"><picture><img src = "about_me.gif" width = 50px></picture>Projects:</h2>
+  </tbody>
+
+
+  
+</table>
+<!-- <h2 align="left" valign="top"><picture><img src = "Images/projects.gif" width = 50px></picture>Projects:</h2> -->
+
+
 <p><i>Use CTRL + click to open links in new tab. </i></p>
 <table>
   <thead>
