@@ -1,18 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shayan</h1>
-<h3 align="center">BSc. Computer Engineering Student @ Bilkent Üniversitesi</h3>
-<h3 align="center"><a href="https://docs.google.com/document/d/1p9cThLEWSdVM1pfoJ0fYriDcyYJp91SF_DuYkOeY4Us/edit?usp=sharing" target="_blank">Resume</a></h3>
 
-<!-- 
-- 📫 Reach me at **[Gmail](mailto:mshayanalwaha@gmail.com?subject=Hello%20there!) | [Outlook](mailto:mshayanalwaha@outlook.com?subject=Hello%20there!)**
-
-- 👨‍💻 Know about my experience on **[LinkedIn](https://www.linkedin.com/in/muhammed-shayan-usman-4559a213b/)**
-
-- 💾 Download my **[Resume](https://docs.google.com/document/d/1p9cThLEWSdVM1pfoJ0fYriDcyYJp91SF_DuYkOeY4Us/edit?usp=sharing)**
--->
 <p align="center">
 <img src="banner.png" width=100%>
-<!-- <img src="banner.gif" width=75%> -->
 </p>
+
+<h3 align="center">BSc. Computer Engineering Student @ Bilkent Üniversitesi | <a href="https://docs.google.com/document/d/1p9cThLEWSdVM1pfoJ0fYriDcyYJp91SF_DuYkOeY4Us/edit?usp=sharing" target="_blank">Resume</a></h3>
+
+
 
 <h2 align="left"><picture><img src = "about_me.gif" width = 50px></picture>Projects:</h2>
 <p><i>Use CTRL + click to open links in new tab. </i></p>
@@ -25,7 +19,7 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/SCORPIA2004/CampusConnect">Campus Connect</a></td>
-      <td>A social webapp that connects students together <!-- <a href="https://www.figma.com/file/R8BZfCFKQJQwLtaQgkhAHL/Undefined?type=design&node-id=107%3A2&mode=design&t=aNN8YGzyDwz2Z1lV-1" target="blank">Figma</a> | --><a href="https://youtu.be/J5G0Qc4Uwq0">Demo</a></td>
+      <td>A social webapp that connects students together <a href="https://www.figma.com/file/R8BZfCFKQJQwLtaQgkhAHL/Undefined?type=design&node-id=107%3A2&mode=design&t=aNN8YGzyDwz2Z1lV-1" target="blank">Figma</a> | <a href="https://youtu.be/J5G0Qc4Uwq0">Demo</a></td>
       <td>MongoDB | ExpressJS | React | NodeJS</td>
     </tr>  
     <tr>
@@ -77,8 +71,8 @@
 </p>
 
 
-<h3 align="left"></picture>Connect with me: <picture><img src = "handshake.gif" width = 100px></h3>
-<p align="left">
+<h2 align="center"></picture>Connect with me: <!-- <picture><img src = "handshake.gif" width = 100px> --> </h2>
+<p align="center">
 <a href="https://www.linkedin.com/in/muhammed-shayan-usman/" target="blank"><img align="center" src="734393_in_linked_media_online_social_icon.png" alt="LinkedIn" height="60" width="60" /></a>
 <a href="mailto:mshayanalwaha@gmail.com" target="blank"><img align="center" src="4550857_email_gmail_mail_sending_yahoo_icon.png" alt="Gmail" height="60" width="60" /></a>
 <a href="https://www.discordapp.com/users/577949604394303518" target="blank"><img align="center" src="3069758_circle_discord_gaming_messenger_round icon_icon.svg" alt="Discord" height="60" width="60" /></a>
