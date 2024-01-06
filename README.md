@@ -11,9 +11,9 @@
 
 <table>
   <tbody>
-    <tr valign="top">
-        <td padding-top="150px" width="100%"  colspan="3">
-          <p><h2 align="center" valign="top"><picture><img src = "Images/projects.gif" width = 30px></picture> Projects</h2>
+    <tr>
+        <td valign="top" colspan="3" width="20%">
+          <h1 align="center"><picture><img src = "Images/projects.gif" width = 40px></picture> Projects</h1>
         </td>
     </tr>
     <tr>
@@ -29,45 +29,50 @@
           </td>
           <td align="center" valign="top" width="20%">
             <a href="https://github.com/SCORPIA2004/AvASys-Ground-Control-System">
-            <img src="Images/Neo.png" width="1000px;" alt=""/>
+            <picture> <img src="Images/Neo.png" height="100px;" alt=""/> </picture>
             </a>
           </td>
           <td align="center" valign="top" width="20%">
-            <a href="https://github.com/SCORPIA2004/CampusConnect">
+            <a href="https://github.com/SCORPIA2004/STARS-Autologger">
             <img src="Images/CampusConnect.png" width="100px;" alt=""/>
             </a>
           </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/SCORPIA2004/CampusConnect"><h3>Campus Connect</a></h3>
-        A social webapp that connects students together 
-        <a href="https://www.figma.com/file/R8BZfCFKQJQwLtaQgkhAHL/Undefined?type=design&node-id=107%3A2&mode=design&t=aNN8YGzyDwz2Z1lV-1" target="blank">Figma</a> | 
-        <a href="https://youtu.be/J5G0Qc4Uwq0">Demo</a>
-        <br>
+        <h3 align="center"><a href="https://github.com/SCORPIA2004/CampusConnect">Campus Connect</a></h3>
       </td>
       <td>
-        <a href="https://github.com/SCORPIA2004/AvASys-Ground-Control-System"><h3>AvASys v1.2.2</a></h3>
-        <h3></a></h3>
-         Flight controller - uses AdaFruit Ultimate GPS + Arduino
+        <h3 align="center"><a href="https://github.com/SCORPIA2004/AvASys-Ground-Control-System">AvASys v1.2.2</a></h3>
       </td>
       <td>
-        <br><h3>Campus Connect</a></h3>
-        A social webapp that connects students together 
-        <a href="https://www.figma.com/file/R8BZfCFKQJQwLtaQgkhAHL/Undefined?type=design&node-id=107%3A2&mode=design&t=aNN8YGzyDwz2Z1lV-1" target="blank">Figma</a> | 
-        <a href="https://youtu.be/J5G0Qc4Uwq0">Demo</a>
+        <h3 align="center"><a href="https://github.com/SCORPIA2004/STARS-Autologger">STARS Autologger</a></h3>
       </td>
     </tr>
     <tr>
       <td>
-        <p align="center"> MongoDB | ExpressJS | React | NodeJS </p>
+        A social webapp that connects students together 
+        <a href="https://www.figma.com/file/R8BZfCFKQJQwLtaQgkhAHL/Undefined?type=design&node-id=107%3A2&mode=design&t=aNN8YGzyDwz2Z1lV-1" target="blank">Figma</a> | 
+        <a href="https://youtu.be/J5G0Qc4Uwq0">Demo</a>
+        <br><br>
+         MongoDB | ExpressJS | React | NodeJS 
       </td>
-      <td>Python | Pyside6 | QtDesigner</td>
+      <td>
+        <h3></a></h3>
+         Flight controller - uses AdaFruit Ultimate GPS + Arduino
+        <br><br>
+         MongoDB | ExpressJS | React | NodeJS 
+      </td>
+      <td>
+        <h3></a></h3>
+        Automated logger using Python and Selenium
+        <br><br>
+         MongoDB | ExpressJS | React | NodeJS 
     </tr>
   </tbody>  
 </table>
 
-
+<!--
 <p><i>Use CTRL + click to open links in new tab. </i></p>
 <table>
   <thead>
@@ -129,25 +134,26 @@
 </table>
 </p>
 
+-->
 
-<h2 align="center"></picture>Connect with me: <!-- <picture><img src = "handshake.gif" width = 100px> --> </h2>
+<h2 align="center"></picture>Connect with me</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/muhammed-shayan-usman/" target="blank"><img align="center" src="734393_in_linked_media_online_social_icon.png" alt="LinkedIn" height="60" width="60" /></a>
-<a href="mailto:mshayanalwaha@gmail.com" target="blank"><img align="center" src="4550857_email_gmail_mail_sending_yahoo_icon.png" alt="Gmail" height="60" width="60" /></a>
-<a href="https://www.discordapp.com/users/577949604394303518" target="blank"><img align="center" src="3069758_circle_discord_gaming_messenger_round icon_icon.svg" alt="Discord" height="60" width="60" /></a>
+<a href="https://www.linkedin.com/in/muhammed-shayan-usman/"><img align="center" src="Images/linkedin.png" alt="LinkedIn" height="60" width="60" /></a>
+<a href="mailto:mshayanalwaha@gmail.com"><img align="center" src="Images/yahoo.png" alt="Gmail" height="60" width="60" /></a>
+<a href="https://www.discordapp.com/users/577949604394303518"><img align="center" src="Images/discord.svg" alt="Discord" height="60" width="60" /></a>
 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="c.svg" alt="c" width="60" height="60"/></a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="cpp.svg" alt="cplusplus" width="60" height="60"/></a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="css.svg" alt="css" width="60" height="60"/></a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="html.svg" alt="html5" width="60" height="60"/></a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="java.svg" alt="java" width="60" height="60"/></a> 
-  <a href="https://doc.qt.io/qt-6/qtdesigner-manual.html" target="_blank" rel="noreferrer"> <img src="qt.svg" alt="qt" width="60" height="60"/></a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="python.svg" alt="python" width="60" height="60"/></a> 
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="unity.svg" alt="unity" width="60" height="60"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="Images/c.svg" alt="c" width="60" height="60"/></a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="Images/cpp.svg" alt="cplusplus" width="60" height="60"/></a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="Images/css.svg" alt="css" width="60" height="60"/></a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="Images/html.svg" alt="html5" width="60" height="60"/></a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="Images/java.svg" alt="java" width="60" height="60"/></a> 
+  <a href="https://doc.qt.io/qt-6/qtdesigner-manual.html" target="_blank" rel="noreferrer"> <img src="Images/qt.svg" alt="qt" width="60" height="60"/></a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="Images/python.svg" alt="python" width="60" height="60"/></a> 
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="Images/unity.svg" alt="unity" width="60" height="60"/></a>
 </p>
 
-<!--- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=scorpia2004&show_icons=true&theme=dark&title_color=ff9500&locale=en" alt="scorpia2004" /></p> --->
+<!--- <p>&nbsp;<img align="center" src="Images/https://github-readme-stats.vercel.app/api?username=scorpia2004&show_icons=true&theme=dark&title_color=ff9500&locale=en" alt="scorpia2004" /></p> --->
