@@ -72,7 +72,7 @@
 -->
 
 
-<h1 align="center"><picture><img src = "Images/projects.gif" width = 40px></picture> Projects</h1>
+<h1 align="left"><picture><img src = "Images/projects.gif" width = 40px></picture> Projects</h1>
 
 
 <table>
