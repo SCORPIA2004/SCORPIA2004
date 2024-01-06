@@ -76,14 +76,18 @@
 
 <table>
   <thead>
-    <th>Name</th>
-    <th>Description</th>
-    <th>Languages/Tools</th>
+    <tr>
+      <th>Name</th>
+      <th>Description</th>
+      <th>Languages/Tools</th>
+    </tr>
+    <tr>
+      <td colspan="3">
+        <p align="center"><i>Use CTRL + click to open links in new tab. </i></p>
+      </td>
+    </tr>
   </thead>
   <tbody>
-    <tr colspan="3">
-      <p><i>Use CTRL + click to open links in new tab. </i></p>
-    </tr>
     <tr>
       <td><a href="https://github.com/SCORPIA2004/CampusConnect">Campus Connect</a></td>
       <td>A social webapp that connects students together <a href="https://www.figma.com/file/R8BZfCFKQJQwLtaQgkhAHL/Undefined?type=design&node-id=107%3A2&mode=design&t=aNN8YGzyDwz2Z1lV-1" target="blank">Figma</a> | <a href="https://youtu.be/J5G0Qc4Uwq0">Demo</a></td>
