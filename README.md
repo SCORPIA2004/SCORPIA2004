@@ -6,27 +6,66 @@
 
 <h3 align="center">BSc. Computer Engineering Student @ Bilkent Üniversitesi | <a href="https://docs.google.com/document/d/1p9cThLEWSdVM1pfoJ0fYriDcyYJp91SF_DuYkOeY4Us/edit?usp=sharing" target="_blank">Resume</a></h3>
 
+<br>
+
 
 <table>
-  <thead>
-      <th>
-        <h2 align="center" valign="top"><picture><img src = "Images/projects.gif" width = 50px></picture>    Projects:</h2>
-      </th>
-  </thead>
   <tbody>
+    <tr valign="top">
+        <td padding-top="150px" width="100%"  colspan="3">
+          <p><h2 align="center" valign="top"><picture><img src = "Images/projects.gif" width = 30px></picture> Projects</h2>
+        </td>
+    </tr>
     <tr>
-      <td>
-        <p><i>Use CTRL + click to open links in new tab. </i></p>
+      <td colspan="3">
+        <p align="center"><i>Use CTRL + click to open links in new tab. </i></p>
       </td>
     </tr>
-          <td align="center" valign="top" width="20%"><a href="https://github.com/SCORPIA2004/CampusConnect"><img src="Images/banner.png" width="100px;" alt=""/><br /><b>Campus Connect</b></a><br/>A social webapp that connects students together <a href="https://www.figma.com/file/R8BZfCFKQJQwLtaQgkhAHL/Undefined?type=design&node-id=107%3A2&mode=design&t=aNN8YGzyDwz2Z1lV-1" target="blank">Figma</a> | <a href="https://youtu.be/J5G0Qc4Uwq0">Demo</a></td>
-
-  </tbody>
-
-
-  
+    <tr>
+          <td align="center" valign="top" width="20%">
+              <a href="https://github.com/SCORPIA2004/CampusConnect">
+              <img src="Images/CampusConnect.png" width="100px;" alt=""/>
+              </a>
+          </td>
+          <td align="center" valign="top" width="20%">
+            <a href="https://github.com/SCORPIA2004/AvASys-Ground-Control-System">
+            <img src="Images/Neo.png" width="1000px;" alt=""/>
+            </a>
+          </td>
+          <td align="center" valign="top" width="20%">
+            <a href="https://github.com/SCORPIA2004/CampusConnect">
+            <img src="Images/CampusConnect.png" width="100px;" alt=""/>
+            </a>
+          </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/SCORPIA2004/CampusConnect"><h3>Campus Connect</a></h3>
+        A social webapp that connects students together 
+        <a href="https://www.figma.com/file/R8BZfCFKQJQwLtaQgkhAHL/Undefined?type=design&node-id=107%3A2&mode=design&t=aNN8YGzyDwz2Z1lV-1" target="blank">Figma</a> | 
+        <a href="https://youtu.be/J5G0Qc4Uwq0">Demo</a>
+        <br>
+      </td>
+      <td>
+        <a href="https://github.com/SCORPIA2004/AvASys-Ground-Control-System"><h3>AvASys v1.2.2</a></h3>
+        <h3></a></h3>
+         Flight controller - uses AdaFruit Ultimate GPS + Arduino
+      </td>
+      <td>
+        <br><h3>Campus Connect</a></h3>
+        A social webapp that connects students together 
+        <a href="https://www.figma.com/file/R8BZfCFKQJQwLtaQgkhAHL/Undefined?type=design&node-id=107%3A2&mode=design&t=aNN8YGzyDwz2Z1lV-1" target="blank">Figma</a> | 
+        <a href="https://youtu.be/J5G0Qc4Uwq0">Demo</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="center"> MongoDB | ExpressJS | React | NodeJS </p>
+      </td>
+      <td>Python | Pyside6 | QtDesigner</td>
+    </tr>
+  </tbody>  
 </table>
-<!-- <h2 align="left" valign="top"><picture><img src = "Images/projects.gif" width = 50px></picture>Projects:</h2> -->
 
 
 <p><i>Use CTRL + click to open links in new tab. </i></p>
