@@ -119,7 +119,7 @@
       <td>C# | Unity</td>
     </tr>
     <tr>
-      <td><a href="https://finance-s4.herokuapp.com/" target="_blank">Finance S4</a></td>
+      <td><a href="https://github.com/SCORPIA2004/finance" target="_blank">Finance S4</a></td>
       <td>Finance app created with JavaScript + Jinja during CS50x</td>
       <td>JavaScript | Jinja</td>
     </tr>
