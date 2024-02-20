@@ -141,7 +141,7 @@
 </table>
 </p>
 
-<h2 align="center"></picture>Connect with me</h2>
+<h2></picture>Connect with me</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/muhammed-shayan-usman/"><img align="center" src="Images/linkedin.png" alt="LinkedIn" height="60" width="60" /></a>
 <a href="mailto:mshayanalwaha@gmail.com"><img align="center" src="Images/yahoo.png" alt="Gmail" height="60" width="60" /></a>
