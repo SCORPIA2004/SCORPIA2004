@@ -91,6 +91,10 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://scorpia2004.github.io/LesionLensWeb/">Lesion Lens</a></td>
+      <td>Computer Vision tool to identify MS lesions in brain and spinal MRI scans | <a href="https://github.com/berkOzkanCSGod/lesionlens">Repo</a></td>
+      <td>OpenCV | Tensorflow | React | AWS Cloud</td>
+    </tr>  
       <td><a href="https://github.com/SCORPIA2004/CampusConnect">Campus Connect</a></td>
       <td>A social webapp that connects students together <a href="https://www.figma.com/file/R8BZfCFKQJQwLtaQgkhAHL/Undefined?type=design&node-id=107%3A2&mode=design&t=aNN8YGzyDwz2Z1lV-1" target="blank">Figma</a> | <a href="https://youtu.be/J5G0Qc4Uwq0">Demo</a></td>
       <td>MongoDB | ExpressJS | React | NodeJS</td>
