@@ -98,7 +98,7 @@
     <tr>
       <td><a href="https://scorpia2004.github.io/LesionLensWeb/">Dynamic Object Throwing</a></td>
       <td>Object thrower and catcher proj for <a href="https://catalog.bilkent.edu.tr/course/c11449.html">CS449 course</a> using advanced robotics concepts like trajectory optimization, RRT pathfinding, and vision-based tracking | <a href="https://github.com/TunaSaygin/Cs-449-Ball-Thrower-Catcher-bot">Repo</a></td>
-      <td>Python | [Robotic](https://github.com/MarcToussaint/robotic/)</td>
+      <td>Python | <a href="https://github.com/MarcToussaint/robotic">Robotic</a></td>
     </tr>  
       <td><a href="https://github.com/SCORPIA2004/CampusConnect">Campus Connect</a></td>
       <td>A social webapp that connects students together <a href="https://www.figma.com/file/R8BZfCFKQJQwLtaQgkhAHL/Undefined?type=design&node-id=107%3A2&mode=design&t=aNN8YGzyDwz2Z1lV-1" target="blank">Figma</a> | <a href="https://youtu.be/J5G0Qc4Uwq0">Demo</a></td>
