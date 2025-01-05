@@ -96,7 +96,7 @@
       <td>OpenCV | Tensorflow | React | AWS Cloud</td>
     </tr>  
     <tr>
-      <td><a href="https://scorpia2004.github.io/LesionLensWeb/">Dynamic Object Throwing</a></td>
+      <td><a href="https://github.com/TunaSaygin/Cs-449-Ball-Thrower-Catcher-bot">Dynamic Object Throwing</a></td>
       <td>Object thrower and catcher proj for <a href="https://catalog.bilkent.edu.tr/course/c11449.html">CS449 course</a> using advanced robotics concepts like trajectory optimization, RRT pathfinding, and vision-based tracking | <a href="https://github.com/TunaSaygin/Cs-449-Ball-Thrower-Catcher-bot">Repo</a></td>
       <td>Python | <a href="https://github.com/MarcToussaint/robotic">Robotic | ROS</a></td>
     </tr>  
