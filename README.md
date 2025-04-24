@@ -92,7 +92,7 @@
   <tbody>
     <tr>
       <td><a href="https://scorpia2004.github.io/LesionLensWeb/">Lesion Lens</a></td>
-      <td>Computer Vision tool to identify MS lesions in brain and spinal MRI scans | <a href="https://github.com/berkOzkanCSGod/lesionlens">Repo</a></td>
+      <td>Computer Vision tool to identify MS lesions in brain and spinal MRI scans | <a href="https://github.com/berkOzkanCSGod/lesionlens">Repo</a> | <a href="https://youtu.be/K2RiUnp4ZUA">Video</a> </td>
       <td>OpenCV | Tensorflow | React | AWS Cloud</td>
     </tr>  
     <tr>
