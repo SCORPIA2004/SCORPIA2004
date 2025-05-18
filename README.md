@@ -96,6 +96,11 @@
       <td>OpenCV | Tensorflow | React | AWS Cloud</td>
     </tr>  
     <tr>
+      <td><a href="">CommitSense</a></td>
+      <td>VS Code extension that allows you to automatically generate high-quality commit messages—complete with a confidence score and multiple LLMs | <a href="https://github.com/Commit-Sense/Himmel">Repo</a> | <a href="https://youtu.be/L_8ZKX6IlFI">Video</a></td>
+      <td>TypeScript | VS Code Extension API | Groq Cloud LLM | Node.js</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/TunaSaygin/Cs-449-Ball-Thrower-Catcher-bot">Dynamic Object Throwing</a></td>
       <td>Object thrower and catcher proj for <a href="https://catalog.bilkent.edu.tr/course/c11449.html">CS449 course</a> using advanced robotics concepts like trajectory optimization, RRT pathfinding, and vision-based tracking | <a href="https://github.com/TunaSaygin/Cs-449-Ball-Thrower-Catcher-bot">Repo</a></td>
       <td>Python | <a href="https://github.com/MarcToussaint/robotic">Robotic</a> | ROS</td>
