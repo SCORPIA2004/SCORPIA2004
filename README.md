@@ -2,7 +2,7 @@
 
 <h3 align="center">
   BSc. Computer Science Student @ Bilkent Üniversitesi
-  <br><a href="https://docs.google.com/document/d/1p9cThLEWSdVM1pfoJ0fYriDcyYJp91SF_DuYkOeY4Us/edit?usp=sharing" target="_blank">Resume</a> | <a href="https://scorpia2004.github.io/" target="_blank">Portfolio</a></h3>
+  <br><a href="https://docs.google.com/document/d/1p9cThLEWSdVM1pfoJ0fYriDcyYJp91SF_DuYkOeY4Us/export?format=pdf" target="_blank">Resume</a> | <a href="https://scorpia2004.github.io/" target="_blank">Portfolio</a></h3>
 
 <p align="center">
 <img src="Images/marioDev_Banner.gif" width=100%>
